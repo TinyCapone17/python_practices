@@ -1,0 +1,4 @@
+id,name,birth,salary,department
+1,Ivan,1980,150000,1
+2,Alex,1960,200000,5
+3,Ivan,,130000.8989,8
